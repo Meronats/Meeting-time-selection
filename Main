@@ -51,7 +51,7 @@ public class MeetingTimeSelector {
         scanner.close();
     }
 
-    // Validate time slot format using regular expressions
+    // Validate time slot format using regular expression
     private static boolean isValidTimeSlotFormat(String timeSlot) {
         String pattern = "^\\d{2}:\\d{2}-\\d{2}:\\d{2}$";
         Pattern regex = Pattern.compile(pattern);
