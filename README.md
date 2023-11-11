@@ -4,5 +4,5 @@ The provided Java code allows an organizer to collect availability information f
 The code then determines the common meeting time slot by finding the intersection of available time slots among team members. 
 If there's a match, it prints the common meeting time slots in HH:MM-HH:MM format. 
 The code also includes error handling to ensure that team members input their availability correctly. 
-![image](https://github.com/Meronats/Meeting-time-selection/assets/119830075/598181b9-aa4e-4e7d-ba2f-d187912fc2c0)
+![image](https://images.unsplash.com/photo-1546525506-495a7647977b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
