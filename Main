@@ -11,7 +11,7 @@ public class MeetingTimeSelector {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of team members: ");
         int numMembers = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline
+        scanner.nextLine(); 
 
         List<String> teamMembers = new ArrayList<>();
         for (int i = 1; i <= numMembers; i++) {
